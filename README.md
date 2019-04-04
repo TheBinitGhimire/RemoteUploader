@@ -1,4 +1,4 @@
-# Remote Uploader
+# RemoteUploader
 <h2 align="center">
 -----------------------------<br>
 -- Binit's Remote Uploader --<br>
