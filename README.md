@@ -1,7 +1,9 @@
-# -----------------------------
-# ---   Remote Uploader   ---
-# -----------------------------
-
+# Remote Uploader
+<h2 align="center">
+-----------------------------
+-- Binit's Remote Uploader --
+-----------------------------
+</h2>
 This PHP-based tool is designed to download files from a different server to your server. It reduces the time you need to spend for uploading larger files to your web server.
 	
 You don't have to follow the DownloadFromWebsite-StoreInYourDevice-UploadToYourWebsite procedure since this tool can perform the task with a single step (i.e. to download the file automatically to your website).
