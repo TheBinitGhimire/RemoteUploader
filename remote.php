@@ -15,8 +15,6 @@
 	Twitter: https://twitter.com/WHOISBinit (@WHOISBinit)
 	GitHub: https://github.com/thebinitghimire/
 	YouTube Channel: https://www.YouTube.com/user/thebinitghimire
-	
- 
  */
 
 ?>
@@ -64,7 +62,6 @@ $filename = basename($URL);
 $file = fopen ($URL, "rb");
 if ($file) {
   $newfile = fopen ($filename, "wb");
-
   if ($newfile)
   while(!feof($file)) {
     fwrite($newfile, fread($file, 1024 * 8 ), 1024 * 8 );
